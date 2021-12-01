@@ -7,10 +7,20 @@
     box-sizing: border-box;
 }
 
+input[type=submit] {
+    background: linear-gradient(to right, #f0c27b, #4b1248);
+    animation: rainbow 5s ease-in-out infinite;
+    background-size: 1800% 1800%;
+}
+
 body {
     font-family: Arial;
     padding: 10px;
     background: #f1f1f1;
+}
+
+.loomatyypTable{
+
 }
 
 /* Header/Blog Title */
@@ -56,13 +66,13 @@ body {
 /* Left column */
 .leftcolumn {
     float: left;
-    width: 75%;
+    width: 50%;
 }
 
 /* Right column */
 .rightcolumn {
     float: left;
-    width: 25%;
+    width: 50%;
     background-color: #f1f1f1;
     padding-left: 20px;
 }

@@ -9,5 +9,7 @@
         <a href="?leht=puzzle">Puzzle</a>
         <a href="?leht=calc">Calculator</a>
         <a href="?leht=pildid">Pildid</a>
+        <a href="?leht=addAndShow">Andmebaas</a>
+        <a href="?leht=puud">Puud</a>
     </div>
 </nav>

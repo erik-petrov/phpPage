@@ -1,0 +1,16 @@
+tr:hover {background-color: #acacaf;}
+th, td {
+    padding: 6px;
+    text-align: left;
+}
+#nimi, #kirj{
+    margin: 4px;
+}
+#form{
+    padding: 2px;
+    border: 1px solid black;
+    width: 175px;
+}
+#submit{
+    font-style: italic;
+}
